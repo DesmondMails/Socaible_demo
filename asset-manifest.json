@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Socaible_demo/static/css/main.27088792.chunk.css",
-    "main.js": "/Socaible_demo/static/js/main.ac86dc4b.chunk.js",
-    "main.js.map": "/Socaible_demo/static/js/main.ac86dc4b.chunk.js.map",
+    "main.js": "/Socaible_demo/static/js/main.c7be40be.chunk.js",
+    "main.js.map": "/Socaible_demo/static/js/main.c7be40be.chunk.js.map",
     "runtime-main.js": "/Socaible_demo/static/js/runtime-main.790afd73.js",
     "runtime-main.js.map": "/Socaible_demo/static/js/runtime-main.790afd73.js.map",
     "static/js/2.495828e6.chunk.js": "/Socaible_demo/static/js/2.495828e6.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.790afd73.js",
     "static/js/2.495828e6.chunk.js",
     "static/css/main.27088792.chunk.css",
-    "static/js/main.ac86dc4b.chunk.js"
+    "static/js/main.c7be40be.chunk.js"
   ]
 }
