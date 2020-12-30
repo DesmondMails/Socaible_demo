@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Socaible_demo/static/css/main.27088792.chunk.css",
+    "main.js": "/Socaible_demo/static/js/main.ac86dc4b.chunk.js",
+    "main.js.map": "/Socaible_demo/static/js/main.ac86dc4b.chunk.js.map",
+    "runtime-main.js": "/Socaible_demo/static/js/runtime-main.790afd73.js",
+    "runtime-main.js.map": "/Socaible_demo/static/js/runtime-main.790afd73.js.map",
+    "static/js/2.495828e6.chunk.js": "/Socaible_demo/static/js/2.495828e6.chunk.js",
+    "static/js/2.495828e6.chunk.js.map": "/Socaible_demo/static/js/2.495828e6.chunk.js.map",
+    "static/css/3.51ec2b36.chunk.css": "/Socaible_demo/static/css/3.51ec2b36.chunk.css",
+    "static/js/3.27dfbf26.chunk.js": "/Socaible_demo/static/js/3.27dfbf26.chunk.js",
+    "static/js/3.27dfbf26.chunk.js.map": "/Socaible_demo/static/js/3.27dfbf26.chunk.js.map",
+    "static/css/4.bd3cf6d0.chunk.css": "/Socaible_demo/static/css/4.bd3cf6d0.chunk.css",
+    "static/js/4.e086b7f1.chunk.js": "/Socaible_demo/static/js/4.e086b7f1.chunk.js",
+    "static/js/4.e086b7f1.chunk.js.map": "/Socaible_demo/static/js/4.e086b7f1.chunk.js.map",
+    "index.html": "/Socaible_demo/index.html",
+    "static/css/3.51ec2b36.chunk.css.map": "/Socaible_demo/static/css/3.51ec2b36.chunk.css.map",
+    "static/css/4.bd3cf6d0.chunk.css.map": "/Socaible_demo/static/css/4.bd3cf6d0.chunk.css.map",
+    "static/css/main.27088792.chunk.css.map": "/Socaible_demo/static/css/main.27088792.chunk.css.map",
+    "static/js/2.495828e6.chunk.js.LICENSE.txt": "/Socaible_demo/static/js/2.495828e6.chunk.js.LICENSE.txt",
+    "static/media/Dual Ring-1s-200px.57335b2b.svg": "/Socaible_demo/static/media/Dual Ring-1s-200px.57335b2b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.790afd73.js",
+    "static/js/2.495828e6.chunk.js",
+    "static/css/main.27088792.chunk.css",
+    "static/js/main.ac86dc4b.chunk.js"
+  ]
+}
